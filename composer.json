@@ -17,11 +17,7 @@
         "source": "https://github.com/Laravelium/laravel-sitemap",
         "wiki": "https://github.com/Laravelium/laravel-sitemap/wiki"
     },
-    "require": {
-        "php": ">=7.3",
-        "illuminate/support": "^8.0",
-        "illuminate/filesystem": "^8.0"
-    },
+
     "require-dev": {
         "laravel/framework": "^8.0",
         "phpunit/phpunit": "^9.3",
